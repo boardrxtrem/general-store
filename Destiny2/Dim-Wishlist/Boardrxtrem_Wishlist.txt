@@ -4,7 +4,9 @@ description:This is my collection of sought after rolls for Destiny 2
 // Ros Arago IV - God Rolls (pve)
 //notes: tags:pve
 dimwishlist:item=3583275737&perks=776531651,95528736
+dimwishlist:item=3583275737&perks=776531651,2610012052
 dimwishlist:item=3583275737&perks=1820235745,95528736
+dimwishlist:item=3583275737&perks=1820235745,2610012052
 
 
 // Ros Arago IV - Repulsor Brace (pve)
@@ -15,5 +17,10 @@ dimwishlist:item=3583275737&perks=776531651
 // Ros Arago IV - Onslaught (pve)
 //notes: tags:pve
 dimwishlist:item=3583275737&perks=95528736
+
+
+// Ros Arago IV - Golden Tricorn (pve)
+//notes: tags:pve
+dimwishlist:item=3583275737&perks=2610012052
 
 
