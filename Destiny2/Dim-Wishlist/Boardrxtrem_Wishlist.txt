@@ -1,2 +1,9 @@
 title:Boardrxtrem_Wishlist
+description:This is my collection of sought after rolls for Destiny 2
+
+// Ros Arago IV (pve)
+//notes: tags:pve
+dimwishlist:item=3583275737&perks=1820235745,95528736
+dimwishlist:item=3583275737&perks=776531651,95528736
+
 
