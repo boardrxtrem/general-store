@@ -1,6 +1,21 @@
 title:Boardrxtrem_Wishlist
 description:This is my collection of sought after rolls for Destiny 2
 
+// Maahes HC4 - God Rolls (pve)
+//notes: tags:pve
+dimwishlist:item=1246793994&perks=776531651,4104185692
+dimwishlist:item=1246793994&perks=776531651,2848615171
+dimwishlist:item=1246793994&perks=776531651,2048641572
+dimwishlist:item=1246793994&perks=247725512,4104185692
+dimwishlist:item=1246793994&perks=247725512,2848615171
+dimwishlist:item=1246793994&perks=247725512,2048641572
+
+
+// Maahes HC4 - Repulsor Brace (pve)
+//notes: tags:pve
+dimwishlist:item=1246793994&perks=776531651
+
+
 // Ros Arago IV - God Rolls (pve)
 //notes: tags:pve
 dimwishlist:item=3583275737&perks=776531651,95528736
@@ -22,5 +37,20 @@ dimwishlist:item=3583275737&perks=95528736
 // Ros Arago IV - Golden Tricorn (pve)
 //notes: tags:pve
 dimwishlist:item=3583275737&perks=2610012052
+
+
+// Yarovit MG4 - God Rolls (pve)
+//notes: tags:pve
+dimwishlist:item=3959549446&perks=3828510309,124408337
+dimwishlist:item=3959549446&perks=3828510309,3324494224
+dimwishlist:item=3959549446&perks=3828510309,3708227201
+dimwishlist:item=3959549446&perks=3418782618,124408337
+dimwishlist:item=3959549446&perks=3418782618,3324494224
+dimwishlist:item=3959549446&perks=3418782618,3708227201
+
+
+// Yarovit MG4 - Encore - Headstone (pve)
+//notes: tags:pve
+dimwishlist:item=3959549446&perks=1195158366,124408337
 
 
