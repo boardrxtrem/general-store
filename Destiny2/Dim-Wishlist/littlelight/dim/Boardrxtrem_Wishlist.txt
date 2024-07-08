@@ -133,6 +133,3 @@ dimwishlist:item=4233375372&perks=923806249,95528736
 dimwishlist:item=4233375372&perks=923806249,831391274
 
 
-// Trashlist
-// CONTROLLING VISION
-dimwishlist:item=-423343404&#notes:No good perk combinations.
