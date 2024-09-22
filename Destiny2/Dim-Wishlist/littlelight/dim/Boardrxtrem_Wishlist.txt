@@ -56,6 +56,14 @@ dimwishlist:item=1246793994&perks=247725512,2048641572
 dimwishlist:item=1246793994&perks=776531651
 
 
+// Perfect Paradox - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1298672084&perks=1126264488,2360754333
+dimwishlist:item=1298672084&perks=1126264488,2679249093
+dimwishlist:item=1298672084&perks=2869569095,2360754333
+dimwishlist:item=1298672084&perks=2869569095,2679249093
+
+
 // Scintillation (Adept) - God Rolls (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=1492522228&perks=3418782618,3078487919
@@ -69,6 +77,24 @@ dimwishlist:item=1492522228&perks=247725512,1771339417
 dimwishlist:item=1719687748&perks=3161816588,3194351027
 dimwishlist:item=1719687748&perks=1523832109,3194351027
 dimwishlist:item=1719687748&perks=2284787283,3194351027
+
+
+// Patron of Lost Causes - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2249996761&perks=247725512,3891536761
+dimwishlist:item=2249996761&perks=247725512,3038247973
+dimwishlist:item=2249996761&perks=1583705720,3891536761
+dimwishlist:item=2249996761&perks=1583705720,3038247973
+
+
+// Breachlight - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2328923181&perks=3523296417,831391274
+dimwishlist:item=2328923181&perks=3523296417,11612903
+dimwishlist:item=2328923181&perks=3523296417,4082225868
+dimwishlist:item=2328923181&perks=923806249,831391274
+dimwishlist:item=2328923181&perks=923806249,11612903
+dimwishlist:item=2328923181&perks=923806249,4082225868
 
 
 // Scintillation - God Rolls (god-pve)
