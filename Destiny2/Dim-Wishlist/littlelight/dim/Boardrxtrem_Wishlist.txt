@@ -1,6 +1,18 @@
 title:Boardrxtrem_Wishlist
 description:This is my collection of sought after rolls for Destiny 2
 
+// VS Gravitic Arrest - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=93061497&perks=3523296417,2396489472
+dimwishlist:item=93061497&perks=776531651,2396489472
+
+
+// VS Gravitic Arrest - God Rolls PvP (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=93061497&perks=1645158859,1194056669
+dimwishlist:item=93061497&perks=1570042021,1194056669
+
+
 // Glissando-47 - God Rolls (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=222606050&perks=3619207468,831391274
@@ -79,6 +91,21 @@ dimwishlist:item=1719687748&perks=1523832109,3194351027
 dimwishlist:item=1719687748&perks=2284787283,3194351027
 
 
+// VS Chill Inhibitor - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1762785662&perks=3987942396,3078487919
+
+
+// VS Velocity Baton - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1762785663&perks=3523296417,243981275
+
+
+// VS Velocity Baton - Attrition Orbs (pve)
+//notes: tags:pve
+dimwishlist:item=1762785663&perks=243981275
+
+
 // Patron of Lost Causes - God Rolls (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2249996761&perks=247725512,3891536761
@@ -97,12 +124,60 @@ dimwishlist:item=2328923181&perks=923806249,11612903
 dimwishlist:item=2328923181&perks=923806249,4082225868
 
 
+// Line in the Sand - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2450049485&perks=2284787283,3078487919
+dimwishlist:item=2450049485&perks=2284787283,1771339417
+dimwishlist:item=2450049485&perks=247725512,3078487919
+dimwishlist:item=2450049485&perks=247725512,1771339417
+
+
+// Martyr's Retribution - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2584830733&perks=3017780555,4293542123
+dimwishlist:item=2584830733&perks=3523296417,4293542123
+dimwishlist:item=2584830733&perks=3300816228,4293542123
+
+
 // Scintillation - God Rolls (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2591257541&perks=3418782618,3078487919
 dimwishlist:item=2591257541&perks=3418782618,1771339417
 dimwishlist:item=2591257541&perks=247725512,3078487919
 dimwishlist:item=2591257541&perks=247725512,1771339417
+
+
+// Liturgy - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2599338624&perks=1955165503,2978966579
+dimwishlist:item=2599338624&perks=2039302152,2978966579
+
+
+// Bitter/Sweet - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2599338625&perks=3987942396,3078487919
+dimwishlist:item=2599338625&perks=3987942396,3194351027
+
+
+// Exuviae - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2823644677&perks=1955165503,124408337
+
+
+// Exuviae - God Rolls PVP (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2823644677&perks=2579169598,555281244
+
+
+// Exuviae - Stats Explosive (pvp)
+//notes: tags:pvp
+dimwishlist:item=2823644677&perks=1583705720,3038247973
+
+
+// Neoptolemus II - God Rolls PvP (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2848549302&perks=691659142,2579169598
+dimwishlist:item=2848549302&perks=880644845,2579169598
 
 
 // Ros Arago IV - God Rolls (god-pve)
@@ -128,6 +203,12 @@ dimwishlist:item=3583275737&perks=95528736
 dimwishlist:item=3583275737&perks=2610012052
 
 
+// Live Fire - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3612142623&perks=1955165503,124408337
+dimwishlist:item=3612142623&perks=1820235745,124408337
+
+
 // Old Sterling - God Rolls (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=3678653083&perks=3418782618,831391274
@@ -138,6 +219,37 @@ dimwishlist:item=3678653083&perks=3418782618,4104185692
 // Old Sterling - Wewind Wounds (pve)
 //notes: tags:pve
 dimwishlist:item=3678653083&perks=3418782618
+
+
+// Legato-11 - God Rolls PvP (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3753063346&perks=2450788523,1194056669
+dimwishlist:item=3753063346&perks=2579169598,1194056669
+
+
+// Legato-11 - God Rolls ()
+dimwishlist:item=3753063346&perks=3017780555,2896038713
+dimwishlist:item=3753063346&perks=3017780555,4293542123
+dimwishlist:item=3753063346&perks=3300816228,2896038713
+dimwishlist:item=3753063346&perks=3300816228,4293542123
+dimwishlist:item=3753063346&perks=3400784728,2896038713
+dimwishlist:item=3753063346&perks=3400784728,4293542123
+
+
+// Sovereignty - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3818198556&perks=3828510309,555281244
+
+
+// Vantage Point - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3830941962&perks=1583705720,3966416502
+dimwishlist:item=3830941962&perks=1583705720,2173046394
+
+
+// Vantage Point - PvP (pvp)
+//notes: tags:pvp
+dimwishlist:item=3830941962&perks=2579169598,460017080
 
 
 // Yarovit MG4 - God Rolls (god-pve)
@@ -158,6 +270,35 @@ dimwishlist:item=3959549446&perks=1195158366,124408337
 // Heliocentric QSc - God Rolls (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=3998080529&perks=3017780555,4293542123
+
+
+// Veleda-F - God Rolls PvP (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=4200122994&perks=2579169598,47981717
+dimwishlist:item=4200122994&perks=2579169598,1194056669
+dimwishlist:item=4200122994&perks=957782887,47981717
+dimwishlist:item=4200122994&perks=957782887,1194056669
+
+
+// VS Pyroelectric Propellant - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=4232480042&perks=684456054,3966416502
+
+
+// VS Pyroelectric Propellant - God Rolls PvP (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=4232480042&perks=2450788523,1194056669
+dimwishlist:item=4232480042&perks=2450788523,365154968
+dimwishlist:item=4232480042&perks=2450788523,1015611457
+dimwishlist:item=4232480042&perks=2450788523,95528736
+dimwishlist:item=4232480042&perks=2451262963,1194056669
+dimwishlist:item=4232480042&perks=2451262963,365154968
+dimwishlist:item=4232480042&perks=2451262963,1015611457
+dimwishlist:item=4232480042&perks=2451262963,95528736
+dimwishlist:item=4232480042&perks=880644845,1194056669
+dimwishlist:item=4232480042&perks=880644845,365154968
+dimwishlist:item=4232480042&perks=880644845,1015611457
+dimwishlist:item=4232480042&perks=880644845,95528736
 
 
 // Marcato-45 - God Rolls (god-pve)

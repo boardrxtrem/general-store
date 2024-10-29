@@ -412,6 +412,375 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2584830733,
+            "name": "God Rolls",
+            "plugs": [
+                [
+                    3017780555,
+                    3523296417,
+                    3300816228
+                ],
+                [
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2450049485,
+            "name": "God Rolls",
+            "plugs": [
+                [
+                    2284787283,
+                    247725512
+                ],
+                [
+                    3078487919,
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3818198556,
+            "name": "God Rolls",
+            "plugs": [
+                [
+                    3828510309
+                ],
+                [
+                    555281244
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2823644677,
+            "name": "God Rolls",
+            "plugs": [
+                [
+                    1955165503
+                ],
+                [
+                    124408337
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2823644677,
+            "name": "God Rolls PVP",
+            "plugs": [
+                [
+                    2579169598
+                ],
+                [
+                    555281244
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2823644677,
+            "name": "Stats Explosive",
+            "plugs": [
+                [
+                    1583705720
+                ],
+                [
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2599338624,
+            "name": "God Rolls",
+            "plugs": [
+                [
+                    1955165503,
+                    2039302152
+                ],
+                [
+                    2978966579
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4200122994,
+            "name": "God Rolls PvP",
+            "plugs": [
+                [
+                    2579169598,
+                    957782887
+                ],
+                [
+                    47981717,
+                    1194056669
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3753063346,
+            "name": "God Rolls PvP",
+            "plugs": [
+                [
+                    2450788523,
+                    2579169598
+                ],
+                [
+                    1194056669
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3753063346,
+            "name": "God Rolls",
+            "plugs": [
+                [
+                    3017780555,
+                    3300816228,
+                    3400784728
+                ],
+                [
+                    2896038713,
+                    4293542123
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "",
+            "hash": 3612142623,
+            "name": "God Rolls",
+            "plugs": [
+                [
+                    1955165503,
+                    1820235745
+                ],
+                [
+                    124408337
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2848549302,
+            "name": "God Rolls PvP",
+            "plugs": [
+                [
+                    691659142,
+                    880644845
+                ],
+                [
+                    2579169598
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2599338625,
+            "name": "God Rolls",
+            "plugs": [
+                [
+                    3987942396
+                ],
+                [
+                    3078487919,
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1762785662,
+            "name": "God Rolls",
+            "plugs": [
+                [
+                    3987942396
+                ],
+                [
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1762785663,
+            "name": "God Rolls",
+            "plugs": [
+                [
+                    3523296417
+                ],
+                [
+                    243981275
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1762785663,
+            "name": "Attrition Orbs",
+            "plugs": [
+                [
+                    243981275
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4232480042,
+            "name": "God Rolls",
+            "plugs": [
+                [
+                    684456054
+                ],
+                [
+                    3966416502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4232480042,
+            "name": "God Rolls PvP",
+            "plugs": [
+                [
+                    2450788523,
+                    2451262963,
+                    880644845
+                ],
+                [
+                    1194056669,
+                    365154968,
+                    1015611457,
+                    95528736
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3830941962,
+            "name": "God Rolls",
+            "plugs": [
+                [
+                    1583705720
+                ],
+                [
+                    3966416502,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3830941962,
+            "name": "PvP",
+            "plugs": [
+                [
+                    2579169598
+                ],
+                [
+                    460017080
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 93061497,
+            "name": "God Rolls",
+            "plugs": [
+                [
+                    3523296417,
+                    776531651
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 93061497,
+            "name": "God Rolls PvP",
+            "plugs": [
+                [
+                    1645158859,
+                    1570042021
+                ],
+                [
+                    1194056669
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
