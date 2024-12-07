@@ -1,12 +1,6 @@
 title:Boardrxtrem_Wishlist
 description:This is my collection of sought after rolls for Destiny 2
 
-// VS Gravitic Arrest - God Rolls (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=93061497&perks=3523296417,2396489472
-dimwishlist:item=93061497&perks=776531651,2396489472
-
-
 // VS Gravitic Arrest - God Rolls PvP (god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=93061497&perks=1645158859,1194056669
@@ -38,19 +32,7 @@ dimwishlist:item=447296102&perks=3032599245,1583705720,776531651
 // Ded Gramarye IV - God Rolls (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=499245245&perks=684456054,2173046394
-dimwishlist:item=499245245&perks=684456054,2396489472
 dimwishlist:item=499245245&perks=4071163871,2173046394
-dimwishlist:item=499245245&perks=4071163871,2396489472
-
-
-// Ded Gramarye IV - Volt Shot (pve)
-//notes: tags:pve
-dimwishlist:item=499245245&perks=2173046394
-
-
-// Ded Gramarye IV - Chain Reaction (pve)
-//notes: tags:pve
-dimwishlist:item=499245245&perks=2396489472
 
 
 // Maahes HC4 - God Rolls (god-pve)
@@ -104,6 +86,18 @@ dimwishlist:item=1762785663&perks=3523296417,243981275
 // VS Velocity Baton - Attrition Orbs (pve)
 //notes: tags:pve
 dimwishlist:item=1762785663&perks=243981275
+
+
+// Deadlock - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2035738085&perks=1126264488,2360754333
+
+
+// Deadlock - God Rolls PvP (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2035738085&perks=2579169598,1194056669
+dimwishlist:item=2035738085&perks=1451849462,1194056669
+dimwishlist:item=2035738085&perks=3161816588,1194056669
 
 
 // Patron of Lost Causes - God Rolls (god-pve)
@@ -180,6 +174,17 @@ dimwishlist:item=2848549302&perks=691659142,2579169598
 dimwishlist:item=2848549302&perks=880644845,2579169598
 
 
+// Scavenger's Fate - God Roll (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2913577176&perks=776531651,2048641572
+
+
+// Scavenger's Fate - God Rolls PvP (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2913577176&perks=3161816588,1194056669
+dimwishlist:item=2913577176&perks=2579169598,1194056669
+
+
 // Ros Arago IV - God Rolls (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=3583275737&perks=776531651,95528736
@@ -209,6 +214,12 @@ dimwishlist:item=3612142623&perks=1955165503,124408337
 dimwishlist:item=3612142623&perks=1820235745,124408337
 
 
+// Suspectum-4fr - God Rolls (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3615421669&perks=3828510309,555281244
+dimwishlist:item=3615421669&perks=3828510309,1771339417
+
+
 // Old Sterling - God Rolls (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=3678653083&perks=3418782618,831391274
@@ -227,7 +238,8 @@ dimwishlist:item=3753063346&perks=2450788523,1194056669
 dimwishlist:item=3753063346&perks=2579169598,1194056669
 
 
-// Legato-11 - God Rolls ()
+// Legato-11 - God Rolls (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3753063346&perks=3017780555,2896038713
 dimwishlist:item=3753063346&perks=3017780555,4293542123
 dimwishlist:item=3753063346&perks=3300816228,2896038713
@@ -244,7 +256,6 @@ dimwishlist:item=3818198556&perks=3828510309,555281244
 // Vantage Point - God Rolls (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=3830941962&perks=1583705720,3966416502
-dimwishlist:item=3830941962&perks=1583705720,2173046394
 
 
 // Vantage Point - PvP (pvp)
